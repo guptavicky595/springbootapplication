@@ -9,6 +9,7 @@ public class SpringBootExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootExampleApplication.class, args);
 		System.out.println(" Welcome Vicky Gupta to Spring Boot application");
+		System.out.println("Doing Good");
 	}
 
 }
